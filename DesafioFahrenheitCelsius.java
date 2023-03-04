@@ -17,7 +17,7 @@ public class DesafioFahrenheitCelsius {
 		Double resultado = ((valor1 - 32) * 5) / 9;
 
 
-		JOptionPane.showMessageDialog(null, F + " Â°F Ã© igual a  " + resultado + " Â°C");
+		JOptionPane.showMessageDialog(null, F + " °F é igual a  " + resultado + " °C");
 
 	}
 

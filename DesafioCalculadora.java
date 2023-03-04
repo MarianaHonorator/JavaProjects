@@ -12,9 +12,9 @@ public class DesafioCalculadora {
 		// Ler num2
 		// + - * / %
 
-		String num1 = JOptionPane.showInputDialog("Digite o primeiro número: ");
-		String num2 = JOptionPane.showInputDialog("Digite o segundo número: ");
-		String op = JOptionPane.showInputDialog("Digite a operação: ");
+		String num1 = JOptionPane.showInputDialog("Digite o primeiro numero: ");
+		String num2 = JOptionPane.showInputDialog("Digite o segundo numero: ");
+		String op = JOptionPane.showInputDialog("Digite a opera��o: ");
 
 		Double valor1 = Double.parseDouble(num1);
 		Double valor2 = Double.parseDouble(num2);

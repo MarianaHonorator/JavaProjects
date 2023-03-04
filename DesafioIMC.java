@@ -19,7 +19,7 @@ public class DesafioIMC {
 		Double IMC = ped / Math.pow(altd, 2);
 	
 		
-		JOptionPane.showMessageDialog(null, "O seu Índice de Massa Corporal (IMC) ficou em  " + String.format("%.2f", IMC));
+		JOptionPane.showMessageDialog(null, "O seu Indice de Massa Corporal (IMC) ficou em  " + String.format("%.2f", IMC));
 
 	}
 
